@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hola! 👋 Soy José Eduardo Romero Baltazar, desarrollador front-end
 
-<!--
-**JoseEduardoRomero/JoseEduardoRomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+Soy un desarrollador front-end apasionado por la creación de interfaces de usuario atractivas y eficientes. Me especializo en React y Next.js y tengo experiencia en el uso de API REST con Node.js y Express.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y Herramientas
+
+- React
+- Next.js
+- Node.js
+- Express
+- HTML/CSS
+- Git
