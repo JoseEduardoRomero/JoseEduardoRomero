@@ -6,6 +6,14 @@ Soy un desarrollador front-end apasionado por la creación de interfaces de usua
 
 ## Tecnologías y Herramientas
 
-[![React](https://img.shields.io/npm/v/react.svg)](https://www.npmjs.com/package/react)
-[![Node.js](https://img.shields.io/node/v/webpack.svg)](https://nodejs.org/en/)
-[![TypeScript](https://img.shields.io/npm/types/typescript.svg)](https://www.typescriptlang.org/)
+## Tecnologías utilizadas
+
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
+[![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+
