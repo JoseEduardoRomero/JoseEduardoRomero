@@ -17,3 +17,7 @@ Soy un desarrollador front-end apasionado por la creación de interfaces de usua
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 
+## Contacto
+
+Si deseas comunicarte conmigo, puedes hacerlo a través de mi  [LinkedIn]([https://www.linkedin.com/in/je-romero-dev/]).
+
