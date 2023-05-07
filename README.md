@@ -6,9 +6,6 @@ Soy un desarrollador front-end apasionado por la creación de interfaces de usua
 
 ## Tecnologías y Herramientas
 
-- React
-- Next.js
-- Node.js
-- Express
-- HTML/CSS
-- Git
+[![React](https://img.shields.io/npm/v/react.svg)](https://www.npmjs.com/package/react)
+[![Node.js](https://img.shields.io/node/v/webpack.svg)](https://nodejs.org/en/)
+[![TypeScript](https://img.shields.io/npm/types/typescript.svg)](https://www.typescriptlang.org/)
