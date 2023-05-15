@@ -18,7 +18,7 @@ Soy un desarrollador front-end apasionado por la creación de interfaces de usua
 
 ## Contacto
 
-Si deseas comunicarte conmigo, puedes hacerlo a través de mi  [LinkedIn]([https://www.linkedin.com/in/je-romero-dev/]).
+Si deseas comunicarte conmigo, puedes hacerlo a través de mi [LinkedIn](https://www.linkedin.com/in/je-romero-dev/)
 
 
 [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseEduardoRomero)](https://github.com/JoseEduardoRomero/github-readme-stats&theme=transparent)
